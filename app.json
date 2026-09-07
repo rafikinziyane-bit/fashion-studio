@@ -1,10 +1,17 @@
 {
   "expo": {
-    "name": "Fashion Studio",
-    "slug": "fashion-studio",
+    "name": "Fashion",
+    "slug": "fashion",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F7F4"
+    },
     "android": {
-      "package": "com.rafiki.fashionstudio"
+      "package": "com.rafiki.fashion",
+      "versionCode": 1
     }
   }
 }
