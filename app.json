@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Fashion Studio",
+    "slug": "fashion-studio",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.rafiki.fashionstudio"
+    }
+  }
+}
